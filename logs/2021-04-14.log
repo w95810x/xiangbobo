@@ -1,0 +1,4 @@
+2021-04-14 21:34:44,506 login.py [line:13] INFO ------开始执行测试用例------
+2021-04-14 22:32:55,466 login.py [line:13] INFO ------开始执行测试用例------
+2021-04-14 22:33:07,627 basepage.py [line:27] ERROR test_login (login.TestLogin) 页面中未能找到<selenium.webdriver.remote.webelement.WebElement (session="06f7fde8dd6f1eeccfc30e3e7d113d0f", element="5a50aae4-ad7c-407c-b88a-cb542320987f")> 元素
+2021-04-14 22:33:51,547 login.py [line:13] INFO ------开始执行测试用例------

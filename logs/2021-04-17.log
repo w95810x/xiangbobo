@@ -1,0 +1,97 @@
+2021-04-17 14:23:07,401 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 14:26:22,888 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 14:33:58,211 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 14:35:50,766 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 14:37:14,692 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 14:41:04,951 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 14:42:35,843 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 14:50:05,921 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 14:51:09,779 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02D18C70> 页面中未能找到('xpath', "//*[contains(text(),'申请寄样')]") 元素
+2021-04-17 14:56:43,584 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 14:57:47,026 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CEBC40> 页面中未能找到('xpath', "//*[contains(text()),'申请寄样']") 元素
+2021-04-17 14:58:52,858 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 14:59:55,820 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CDBC40> 页面中未能找到('link text', '申请寄样') 元素
+2021-04-17 15:02:27,065 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 15:03:36,510 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 15:05:03,656 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 15:13:45,531 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 15:19:31,042 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 15:31:43,825 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 15:32:52,319 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CF8C70> 页面中未能找到('class name', 'simpleButton red bigs') 元素
+2021-04-17 15:38:20,919 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 15:40:30,678 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 15:41:44,328 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CD8C70> 页面中未能找到('xpath', "//*[contains(text(),'提交寄样申请')]") 元素
+2021-04-17 16:41:15,340 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 16:42:30,488 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CE8D30> 页面中未能找到('xpath', "//*[contains(text(),'请输入银行账户名称')]") 元素
+2021-04-17 16:43:32,456 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 16:44:50,152 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02D18D30> 页面中未能找到('xpath', "//*[contains(text(),'请输入银行账户名称')]") 元素
+2021-04-17 17:05:44,865 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:07:02,773 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CD8D18> 页面中未能找到('xpath', "//*[contains(text(),'请输入银行账户名称')]") 元素
+2021-04-17 17:08:21,095 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:09:39,687 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CD8D18> 页面中未能找到('xpath', "//*[contains(text(),'请输入银行账户名称')]") 元素
+2021-04-17 17:15:55,614 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:17:13,723 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CD8D30> 页面中未能找到('xpath', '/html/body/div[5]/div/div[2]/div[2]/div/form[2]/div[2]/div/div/div/input') 元素
+2021-04-17 17:21:50,421 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:23:08,555 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CD8D60> 页面中未能找到('xpath', '/html/body/div[5]/div/div[2]/div[2]/div/form[2]/div[2]/div/div/div/input') 元素
+2021-04-17 17:23:55,591 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:25:13,912 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CF8D60> 页面中未能找到('xpath', '/html/body/div[5]/div/div[2]/div[2]/div/form[2]/div[2]/div/div/div/input') 元素
+2021-04-17 17:38:53,877 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:40:15,923 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CD8D60> 页面中未能找到('xpath', '/html/body/div[5]/div/div[2]/div[2]/div/form[2]/div[2]/div/div/div/input') 元素
+2021-04-17 17:41:17,773 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:42:19,167 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:43:24,150 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:46:09,231 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:47:41,595 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:49:02,385 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:50:16,800 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CE8D48> 页面中未能找到('xpath', '/html/body/div[5]/div/div[2]/div[2]/div/form[2]/div[2]/div/div/div/input') 元素
+2021-04-17 17:53:52,023 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 17:55:07,426 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CF8D48> 页面中未能找到('xpath', '/html/body/div[5]/div/div[2]/div[2]/div/form[2]/div[2]/div/div/div/input') 元素
+2021-04-17 18:02:11,371 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 18:03:31,490 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CD8D48> 页面中未能找到('xpath', '/html/body/div[5]/div/div[2]/div[2]/div/form[2]/div[2]/div/div/div/input') 元素
+2021-04-17 18:12:24,160 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 18:13:28,754 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CD8D60> 页面中未能找到<selenium.webdriver.remote.webelement.WebElement (session="fc57f598b186e2d8b0d6d7c4dfa1abe8", element="29cb2d5e-09c8-49e5-8535-484657404162")> 元素
+2021-04-17 18:15:10,314 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 18:16:14,278 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CD8D30> 页面中未能找到<selenium.webdriver.remote.webelement.WebElement (session="3b277be439ae9c07236b05f7e5501654", element="b58c5d29-2855-43d7-b3b4-255929789e48")> 元素
+2021-04-17 18:20:16,470 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 18:21:21,508 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CE8D00> 页面中未能找到<selenium.webdriver.remote.webelement.WebElement (session="9e33e923fda591f0532b2b3b2ddec7b5", element="625bd3d8-29bf-468b-a58e-fa0e2fc91d03")> 元素
+2021-04-17 18:23:37,220 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 18:24:41,990 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02D28D30> 页面中未能找到<selenium.webdriver.remote.webelement.WebElement (session="3f1ad2aba3f6fdede51b6394288e2445", element="c1fd32b6-2ec3-4349-87cb-c3c454087c7e")> 元素
+2021-04-17 18:24:57,701 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 18:26:02,221 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02D08D30> 页面中未能找到<selenium.webdriver.remote.webelement.WebElement (session="62c44e696ed16c75ac42bb64364d0975", element="39ae15b2-47de-447b-9c61-6dd55f2633b1")> 元素
+2021-04-17 18:33:50,321 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 18:34:56,211 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CE8D30> 页面中未能找到<selenium.webdriver.remote.webelement.WebElement (session="4b9a852b70befe5495b1cdfdb4a6d06a", element="da4a92f5-6704-49ff-94c8-0732b40d42f5")> 元素
+2021-04-17 18:41:19,456 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 18:42:24,448 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CD8D00> 页面中未能找到<selenium.webdriver.remote.webelement.WebElement (session="1f9e7867d6dcc1b755d0b1b59f402fce", element="d58f72f5-e451-4f71-a72d-e06ebbf4c4ff")> 元素
+2021-04-17 19:32:18,759 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 19:33:38,835 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CF8D18> 页面中未能找到('xpath', '/html/body/div[5]/div/div[2]/div[2]/div/form[2]/div[3]/div/div/div/input') 元素
+2021-04-17 19:35:49,509 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 19:39:25,804 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 19:40:46,454 basepage.py [line:23] ERROR <pages.zhaosp.ZSP object at 0x02CD8D48> 页面中未能找到('xpath', '/html/body/div[5]/div/div[2]/div[2]/div/form[2]/div[2]/div/div/div/input') 元素
+2021-04-17 19:43:03,214 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 19:45:04,269 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 19:45:24,105 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 19:46:09,873 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 19:46:50,505 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 19:50:57,061 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 19:53:46,218 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 19:55:40,996 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:00:09,683 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:02:23,251 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:04:58,544 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:06:15,227 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:08:17,830 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:11:47,098 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:15:03,580 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:16:15,154 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:18:57,746 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:21:02,087 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:24:19,329 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:25:44,490 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:30:22,147 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:32:23,138 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:35:32,383 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:43:19,377 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:44:42,635 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:52:01,745 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 20:54:53,931 login.py [line:14] INFO ------开始执行测试用例------
+2021-04-17 21:06:27,293 login.py [line:14] INFO ------开始执行测试用例------
